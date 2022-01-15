@@ -62,7 +62,7 @@
     "husky": "4.2.5",
     "immer": "6.0.5",
     "lerna": "3.21.0",
-    "shelljs": "0.8.4"
+    "shelljs": "0.8.5"
   },
   "workspaces": [
     "packages/*",
